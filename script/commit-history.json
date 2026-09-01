@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "038f508bbe30357592f16cdb1cb0d1b7d6a3327e",
     "author": "Alvaro Nina",
     "commit": {
       "date": "2026-09-01T14:02:42.000Z",
       "message": "feat: Anotador inicial",
-      "url": "https://github.com/alvaroninav-ship-it/TenisProject/commit/HEAD"
+      "url": "https://github.com/alvaroninav-ship-it/TenisProject/commit/038f508bbe30357592f16cdb1cb0d1b7d6a3327e"
     },
     "stats": {
       "total": 87,
@@ -15,6 +15,25 @@
     },
     "coverage": 80,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alvaro Nina",
+    "commit": {
+      "date": "2026-09-01T14:08:41.000Z",
+      "message": "feat: Cuando un jugador anota",
+      "url": "https://github.com/alvaroninav-ship-it/TenisProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 27,
+      "additions": 23,
+      "deletions": 4,
+      "date": "2026-09-01"
+    },
+    "coverage": 92.86,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }

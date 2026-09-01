@@ -4,6 +4,13 @@ describe("Mostrar marcador", () => {
   it("deberia mostrar el marcador correcto", () => {
     expect(marcador(0, 0)).toEqual("Love-Love");
   });
+  it("deberia mostrar cambio cuando uno anote", () => {
+    expect(marcador(15, 0)).toEqual("15-Love");
+  });
+  it("deberia mostrar cambio cuando el segundo anote", () => {
+    expect(marcador(0, 15)).toEqual("Love-15");
+  });
+
 });
 
 /*
