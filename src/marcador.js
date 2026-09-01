@@ -8,11 +8,11 @@ function marcador(a,b) {
   if (b==0){
     jugador2="Love";
   }
-  if (a==15){
-    jugador1="15";
+  if (a>0 && a<=40){
+    jugador1=a;
   }
-  if (b==15){
-    jugador2="15";
+  if (b>0 && b<=40){
+    jugador2=b;
   }
   resultado=jugador1+"-"+jugador2;
   return resultado;

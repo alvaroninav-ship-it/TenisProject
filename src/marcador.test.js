@@ -10,6 +10,12 @@ describe("Mostrar marcador", () => {
   it("deberia mostrar cambio cuando el segundo anote", () => {
     expect(marcador(0, 15)).toEqual("Love-15");
   });
+  it("deberia mostrar cambio se llegue a 40 alguno", () => {
+    expect(marcador(0, 40)).toEqual("Love-40");
+  });
+  it("deberia mostrar cambio cuando haya anotaciones", () => {
+    expect(marcador(40, 15)).toEqual("40-15");
+  });
 
 });
 

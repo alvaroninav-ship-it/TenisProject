@@ -94,9 +94,23 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "e590c229e706f97f285d5066b145048f2a6c6897",
     "commitName": "feat: Cuando un jugador anota",
     "commitTimestamp": 1788271723077,
     "testId": 1
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1788272131596,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Jugadores llegan a 40",
+    "commitTimestamp": 1788272155692,
+    "testId": 2
   }
 ]

@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e590c229e706f97f285d5066b145048f2a6c6897",
     "author": "Alvaro Nina",
     "commit": {
       "date": "2026-09-01T14:08:41.000Z",
       "message": "feat: Cuando un jugador anota",
-      "url": "https://github.com/alvaroninav-ship-it/TenisProject/commit/HEAD"
+      "url": "https://github.com/alvaroninav-ship-it/TenisProject/commit/e590c229e706f97f285d5066b145048f2a6c6897"
     },
     "stats": {
       "total": 27,
@@ -34,6 +34,25 @@
     },
     "coverage": 92.86,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alvaro Nina",
+    "commit": {
+      "date": "2026-09-01T14:15:54.000Z",
+      "message": "feat: Jugadores llegan a 40",
+      "url": "https://github.com/alvaroninav-ship-it/TenisProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 22,
+      "additions": 17,
+      "deletions": 5,
+      "date": "2026-09-01"
+    },
+    "coverage": 72.22,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }
