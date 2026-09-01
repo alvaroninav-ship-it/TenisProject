@@ -16,6 +16,9 @@ describe("Mostrar marcador", () => {
   it("deberia mostrar cambio cuando haya anotaciones", () => {
     expect(marcador(40, 15)).toEqual("40-15");
   });
+   it("deberia mostrar deuce cuando haya empate en 40-40", () => {
+    expect(marcador(40, 40)).toEqual("Deuce");
+  });
 
 });
 

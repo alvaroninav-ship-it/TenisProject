@@ -108,9 +108,23 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "9fd1745de1e42658246d5a71085ac8756939c27a",
     "commitName": "feat: Jugadores llegan a 40",
     "commitTimestamp": 1788272155692,
     "testId": 2
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1788272288034,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Mostrar deuce en empate 40-40",
+    "commitTimestamp": 1788272311022,
+    "testId": 3
   }
 ]

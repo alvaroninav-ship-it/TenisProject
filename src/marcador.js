@@ -14,7 +14,12 @@ function marcador(a,b) {
   if (b>0 && b<=40){
     jugador2=b;
   }
-  resultado=jugador1+"-"+jugador2;
+  if (a==40 && b==40){
+    resultado="Deuce";
+  }
+  else{
+    resultado=jugador1+"-"+jugador2;
+  }
   return resultado;
 }
 export default marcador;
