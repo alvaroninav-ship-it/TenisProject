@@ -19,7 +19,22 @@ function marcador(a, b) {
     if (b > 0 && b <= 40) {
         jugador2 = b;
     }
-
+    if (a==50 && b<40){
+      resultado = "Game for Player 1";
+      return resultado;
+    }
+    if (a<40 && b==50){
+      resultado = "Game for Player 2";
+      return resultado;
+    }
+    if (a >= 60) {
+        resultado = "Game for Player 1";
+        return resultado;
+    }
+    if (b >= 60) {
+        resultado = "Game for Player 2";
+        return resultado;
+    }
     if (a == 40 && b == 40) {
         resultado = "Deuce";
     }

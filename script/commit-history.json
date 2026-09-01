@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "1efe086dfbc5b68d0092451b3e7c7d01cb1d5998",
     "author": "Alvaro Nina",
     "commit": {
       "date": "2026-09-01T15:28:37.000Z",
       "message": "feat: Toma de ventaja despues de 40 para ambos jugadores",
-      "url": "https://github.com/alvaroninav-ship-it/TenisProject/commit/HEAD"
+      "url": "https://github.com/alvaroninav-ship-it/TenisProject/commit/1efe086dfbc5b68d0092451b3e7c7d01cb1d5998"
     },
     "stats": {
       "total": 68,
@@ -91,6 +91,25 @@
     },
     "coverage": 75,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alvaro Nina",
+    "commit": {
+      "date": "2026-09-01T15:37:22.000Z",
+      "message": "feat: Resultados ganadores",
+      "url": "https://github.com/alvaroninav-ship-it/TenisProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 29,
+      "additions": 27,
+      "deletions": 2,
+      "date": "2026-09-01"
+    },
+    "coverage": 75,
+    "test_count": 10,
     "failed_tests": 0,
     "conclusion": "success"
   }

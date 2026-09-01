@@ -19,9 +19,19 @@ describe("Mostrar marcador", () => {
   it("deberia mostrar deuce cuando haya empate en 40-40", () => {
     expect(marcador(40, 40)).toEqual("Deuce");
   });
-  it("deberia mostrar deuce cuando haya empate en 40-40", () => {
+  it("deberia mostrar advantage cuando un jugador tenga ventaja", () => {
+    expect(marcador(50, 40)).toEqual("Advantage Player 1");
+  });
+  it("deberia mostrar advantage cuando un jugador tenga ventaja", () => {
     expect(marcador(40, 50)).toEqual("Advantage Player 2");
   });
+  it("deberia mostrar game para el jugador que gane cuando haya empate en 40-40", () => {
+    expect(marcador(60, 40)).toEqual("Game for Player 1");
+  });
+   it("deberia mostrar game para el jugador que gane cuando haya empate en 40-40", () => {
+    expect(marcador(30, 50)).toEqual("Game for Player 2");
+  });
+  
 });
 
 /*

@@ -136,9 +136,39 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "1efe086dfbc5b68d0092451b3e7c7d01cb1d5998",
     "commitName": "feat: Toma de ventaja despues de 40 para ambos jugadores",
     "commitTimestamp": 1788276519630,
     "testId": 4
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 2,
+    "numTotalTests": 10,
+    "timestamp": 1788276859734,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 1,
+    "numTotalTests": 10,
+    "timestamp": 1788276910913,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 0,
+    "numTotalTests": 10,
+    "timestamp": 1788276970027,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Resultados ganadores",
+    "commitTimestamp": 1788277045107,
+    "testId": 5
   }
 ]
