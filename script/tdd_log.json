@@ -122,9 +122,23 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "8069ee52cbf7a1780f28722baa158be5f4235f69",
     "commitName": "feat: Mostrar deuce en empate 40-40",
     "commitTimestamp": 1788272311022,
     "testId": 3
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1788276277468,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Toma de ventaja despues de 40 para ambos jugadores",
+    "commitTimestamp": 1788276519630,
+    "testId": 4
   }
 ]

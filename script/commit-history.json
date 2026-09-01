@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "8069ee52cbf7a1780f28722baa158be5f4235f69",
     "author": "Alvaro Nina",
     "commit": {
       "date": "2026-09-01T14:18:29.000Z",
       "message": "feat: Mostrar deuce en empate 40-40",
-      "url": "https://github.com/alvaroninav-ship-it/TenisProject/commit/HEAD"
+      "url": "https://github.com/alvaroninav-ship-it/TenisProject/commit/8069ee52cbf7a1780f28722baa158be5f4235f69"
     },
     "stats": {
       "total": 10,
@@ -72,6 +72,25 @@
     },
     "coverage": 75,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alvaro Nina",
+    "commit": {
+      "date": "2026-09-01T15:28:37.000Z",
+      "message": "feat: Toma de ventaja despues de 40 para ambos jugadores",
+      "url": "https://github.com/alvaroninav-ship-it/TenisProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 68,
+      "additions": 42,
+      "deletions": 26,
+      "date": "2026-09-01"
+    },
+    "coverage": 75,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }

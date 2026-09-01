@@ -16,10 +16,12 @@ describe("Mostrar marcador", () => {
   it("deberia mostrar cambio cuando haya anotaciones", () => {
     expect(marcador(40, 15)).toEqual("40-15");
   });
-   it("deberia mostrar deuce cuando haya empate en 40-40", () => {
+  it("deberia mostrar deuce cuando haya empate en 40-40", () => {
     expect(marcador(40, 40)).toEqual("Deuce");
   });
-
+  it("deberia mostrar deuce cuando haya empate en 40-40", () => {
+    expect(marcador(40, 50)).toEqual("Advantage Player 2");
+  });
 });
 
 /*
