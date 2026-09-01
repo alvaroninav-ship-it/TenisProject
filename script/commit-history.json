@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Alvaro Nina",
+    "commit": {
+      "date": "2026-09-01T14:02:42.000Z",
+      "message": "feat: Anotador inicial",
+      "url": "https://github.com/alvaroninav-ship-it/TenisProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 87,
+      "additions": 56,
+      "deletions": 31,
+      "date": "2026-09-01"
+    },
+    "coverage": 80,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
