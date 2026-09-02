@@ -95,18 +95,37 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "7c1339ef990332d213306142a558401c2fa26fd8",
     "author": "Alvaro Nina",
     "commit": {
       "date": "2026-09-01T15:37:22.000Z",
       "message": "feat: Resultados ganadores",
-      "url": "https://github.com/alvaroninav-ship-it/TenisProject/commit/HEAD"
+      "url": "https://github.com/alvaroninav-ship-it/TenisProject/commit/7c1339ef990332d213306142a558401c2fa26fd8"
     },
     "stats": {
       "total": 29,
       "additions": 27,
       "deletions": 2,
       "date": "2026-09-01"
+    },
+    "coverage": 75,
+    "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alvaro Nina",
+    "commit": {
+      "date": "2026-09-02T22:54:11.000Z",
+      "message": "feat: Advantages y deuces controlados",
+      "url": "https://github.com/alvaroninav-ship-it/TenisProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 18,
+      "additions": 17,
+      "deletions": 1,
+      "date": "2026-09-02"
     },
     "coverage": 75,
     "test_count": 10,

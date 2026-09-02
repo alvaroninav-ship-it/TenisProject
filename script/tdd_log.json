@@ -166,9 +166,39 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "7c1339ef990332d213306142a558401c2fa26fd8",
     "commitName": "feat: Resultados ganadores",
     "commitTimestamp": 1788277045107,
     "testId": 5
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1788388589335,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 1,
+    "numTotalTests": 11,
+    "timestamp": 1788389410896,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 0,
+    "numTotalTests": 10,
+    "timestamp": 1788389512401,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Advantages y deuces controlados",
+    "commitTimestamp": 1788389652422,
+    "testId": 6
   }
 ]
